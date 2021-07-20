@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.12
+Created-By: 19.0.1 (Homebrew)
+Main-Class: ~/Documents/proga/lab6/src/prog1/main
+

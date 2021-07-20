@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project default="run" name="Lab 4 Task">
+    <target name="run" depends="compile">
+        <java classname="~/Documents/proga/lab6tmp">
+            <classpath path="staging"/>
+        </java>
+    </target>
+    <target name="compile">
+        <javac includeantruntime="false" srcdir="./src" destdir="staging"/>
+    </target>
+    <target name="jar" depends="compile">
+        <jar destfile="out/lib/lib.jar" basedir="out">
+            <manifest>
+                <attribute name="Main-Class" value="Main"/>
+            </manifest>
+        </jar>
+    </target>
+    <target name="clean">
+        <delete dir="out"/>
+    </target>
+</project>

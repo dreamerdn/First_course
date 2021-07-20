@@ -1,0 +1,54 @@
+<project name="lab6" default="p2.run" >
+    <target name="make.dirs" description="Make some dirs">
+        <mkdir dir="build"/>
+        <mkdir dir="build/class"/>
+    </target>
+
+    <target name="compile" description="Compile project code" depends="make.dirs">
+        <javac destdir="build/class">
+            <src path="src"/>
+        </javac>
+    </target>
+
+    <target name="p1.jar" description="Make jar file for project1" depends="compile">
+        <manifest file="MANIFEST.MF">
+            <attribute name="Main-Class" value="~/Documents/proga/lab6/src/prog1/main"/>
+        </manifest>
+
+        <jar destfile="build/proj1.jar" manifest="MANIFEST.MF">
+            <fileset dir="build/class">
+                <include name="**/*.class"/>
+                <exclude name="**/CVS"/>
+            </fileset>
+        </jar>
+    </target>
+
+    <target name="p1.run" description="Runs project1" depends="p1.jar">
+        <java fork = "true" failonerror = "yes" jar="build/proj1.jar">
+            <arg line = "My name is Nik"/>
+        </java>
+    </target>
+
+    <target name="p2.jar" description="Make jar file for project2" depends="compile">
+        <manifest file="MANIFEST.MF">
+            <attribute name="Main-Class" value="/Users/dashan/Documents/proga/lab6/src/prog2/main"/>
+        </manifest>
+
+        <jar destfile="build/proj2.jar" manifest="MANIFEST.MF">
+            <fileset dir="build/class">
+                <include name="**/*.class"/>
+                <exclude name="**/CVS"/>
+            </fileset>
+        </jar>
+    </target>
+
+    <target name="p2.run" description="Runs project2" depends="p2.jar">
+        <java fork = "true" failonerror = "yes" jar="build/proj2.jar"/>
+    </target>
+
+    <target name="clean" description="Cleans up build dirs">
+        <echo>I'm cleaning up</echo>
+        <delete dir="build" />
+    </target>
+</project>
+
