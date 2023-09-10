@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.rsoi.controller.PhoneControllerTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-04-24T23:54:51" hostname="Dashas-MacBook-Pro.local" time="0.171">
+  <properties/>
+  <testcase name="testDeletePhone()" classname="com.github.rsoi.controller.PhoneControllerTest" time="0.104"/>
+  <testcase name="testAddPhone()" classname="com.github.rsoi.controller.PhoneControllerTest" time="0.03"/>
+  <testcase name="testGetPhonesByRamRange()" classname="com.github.rsoi.controller.PhoneControllerTest" time="0.011"/>
+  <testcase name="testGetPhones()" classname="com.github.rsoi.controller.PhoneControllerTest" time="0.006"/>
+  <testcase name="testGetInternetShop()" classname="com.github.rsoi.controller.PhoneControllerTest" time="0.004"/>
+  <system-out><![CDATA[02:54:47.821 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [PhoneControllerTest]: using SpringBootContextLoader
+02:54:47.840 [Test worker] DEBUG org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.github.rsoi.controller.PhoneControllerTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+02:54:47.943 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using ContextCustomizers for test class [PhoneControllerTest]: [DisableObservabilityContextCustomizer, PropertyMappingContextCustomizer, Customizer, ExcludeFilterContextCustomizer, DuplicateJsonObjectContextCustomizer, MockitoContextCustomizer, TestRestTemplateContextCustomizer]
+02:54:48.338 [Test worker] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners for test class [PhoneControllerTest]: [ServletTestExecutionListener, DirtiesContextBeforeModesTestExecutionListener, ApplicationEventsTestExecutionListener, MockitoTestExecutionListener, DependencyInjectionTestExecutionListener, DirtiesContextTestExecutionListener, TransactionalTestExecutionListener, SqlScriptsTestExecutionListener, EventPublishingTestExecutionListener, RestDocsTestExecutionListener, MockRestServiceServerResetTestExecutionListener, MockMvcPrintOnlyOnFailureTestExecutionListener, WebDriverTestExecutionListener, MockWebServiceServerTestExecutionListener, ResetMocksTestExecutionListener]
+02:54:48.342 [Test worker] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: class [PhoneControllerTest], class annotated with @DirtiesContext [false] with mode [null]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.0.2)
+
+2023-04-25T02:54:49.521+03:00  INFO 5118 --- [    Test worker] c.g.rsoi.controller.PhoneControllerTest  : Starting PhoneControllerTest using Java 19.0.1 with PID 5118 (started by dashan in /Users/dashan/Documents/proga/RSOI/lab-6-main — копия/application)
+2023-04-25T02:54:49.524+03:00  INFO 5118 --- [    Test worker] c.g.rsoi.controller.PhoneControllerTest  : No active profile set, falling back to 1 default profile: "default"
+2023-04-25T02:54:51.620+03:00  INFO 5118 --- [    Test worker] c.g.rsoi.controller.PhoneControllerTest  : Started PhoneControllerTest in 3.15 seconds (process running for 11.385)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+module NumberModule {
+  interface NumberService {
+          void addNumber(in double num);
+    string getNumbers();
+};
+};

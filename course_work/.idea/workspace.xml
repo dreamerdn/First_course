@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14a55cfc-2560-42ae-aef8-ca10baf43443" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JBoss server 2/.idea/JBoss server 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JBoss server 2/JBoss server 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L2/L2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-5-main/.idea/lab-5-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/modules/application/lab-6.application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main — копия 2/.idea/modules/application/com.github.rsoi.lab-6.application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main — копия 2/.idea/modules/application/lab-6.application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main — копия/.idea/modules/application/com.github.rsoi.lab-6.application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RSOI/lab-6-main — копия/.idea/modules/application/lab-6.application.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CarRental_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CarRental_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/course_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_4_8_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarRental" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/.idea/Dump20200507.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/car_rental_car_makes.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/car_rental_cars.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/car_rental_clients.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/car_rental_employees.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dump20200507/car_rental_orders.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_work — копия 2/.idea/course_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_work — копия 2/Dump20200507/.idea/Dump20200507.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_work — копия/.idea/course_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_work — копия/CarRental/CarRental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course_work — копия/Dump20200507/.idea/Dump20200507.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-5-RSOI финальная/src/main/java/com/example/lab4rsoimaven/controller/PhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/1111/1111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/1атрощ/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/6lab/ANT/.idea/ANT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/LABA1_PISM/LABA1_PISM/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/LR1/LR1/LR1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/Lab4_5 IEF/Lab4_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/Laba2/Laba2/Laba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/Laba2/__MACOSX/Laba2/._Laba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/lab1natasha/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/laba1.1/laba1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/pism3/pism3/pism3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/8 лаба/WebApplication2/.idea/.idea.WebApplication2/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/8 лаба/WebApplication3/.idea/.idea.WebApplication3/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/ClientManager/.idea/ClientManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/ClientManager/ClientManager/ClientManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/LabPism8/LabPism8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/LabPism8/LabPism8/LabPism8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/Laboratory_work_5/Laboratory_work_5/.idea/Laboratory_work_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/Laboratory_work_5/Laboratory_work_5/Bean/Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/Laboratory_work_5/Laboratory_work_5/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСМ_10/RIS_LAB_2-master/lab5pism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/ПИСм/Lab4_5 IEF/Lab4_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/ejb6v2/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/ejb6v2/ejb6v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/ejb6v2/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/lab7Jms/consumer/consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/lab7Jms/lab7Jms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/lab7Jms/producer/producer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/6-8/pisl8/pisl8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/laba4/laba4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/lr3/lr3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/miklelab1/.idea/miklelab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/miklelab1/miklelab1/.idea/miklelab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/miklelab1/miklelab1/miklelab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/pislLab22/pislLab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/п/.idea/п.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/атрощенко/п/lr4/lr4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/1111/1111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/COBRA/COBRA/.idea/COBRA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/CORBA/.idea/CORBA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/CORBA/HelloClient/HelloClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/EJB/EJB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/MyAplication/MyAplication/.idea/MyAplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/RMI/.idea/RMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/RMI/RMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/jsf_with_richfaces/jsf_with_richfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/la11/la11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab1/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab6/lab6/Ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab6_Ejb/Ejb/Ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7/.idea/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7/Bean/Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7_jms/lab7_jms/.idea/lab7_jms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7_jms/lab7_jms/Bean/Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/lab7_jms/lab7_jms/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/laba_rmi/laba_rmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/labrab1/labrab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/pism6/pism6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/smth/.idea/smth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/3/писм атрощенко/untitled/lab3Atrochenko/lab3Atrochenko.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/PISMSem6Lab6/ejbtest/ejbtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/patterns-Java-master/Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/proj/.idea/proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/rmilab/rmilab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/ЛР 6/MyProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/ЛР 7/.idea/ЛР 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/ПИСМ Атрощенко/laba3/laba3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/ПИСМ Атрощенко/laba3/rmilab/rmilab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писм/Lab3/.idea/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писм/Lab3/Sem6Lab3Test/Sem6Lab3Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писм/лаба 7 моя маленькая таблица/.idea/proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писм/лаба 7 с рамкой мот/.idea/proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/.idea/писмлаб.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/4lab_rmi/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/4lab_rmi/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/4lab_rmi/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/EJB/EJB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Lab3/.idea/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Lab3/Sem6Lab3Test/Sem6Lab3Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Lab5/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Lab5/Lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Lab5/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/PISMSem6Lab6/ejbtest/ejbtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/PISMSem6Lab6Ann/ejbtest/ejbtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/PISMSem6Lab8/PISMSem6Lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/PISMSem6Lab8Ann/PISMSem6Lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Sem6Lab4/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Sem6Lab4/Interface/Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/Sem6Lab4/Server/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/asdasd/asdasd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/laba1/laba1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/laba2/laba2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/laba2hotels/laba2hotels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/pism/ПИСМ (1)/ПИСМ/писмлаб/newEJB/newEJB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/1111/1111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/COBRA/.idea/COBRA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/COBRA/COBRA/.idea/COBRA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/CORBA-Example/CORBA-Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/CORBA/.idea/CORBA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/CORBA/HelloClient/HelloClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/EJB/EJB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/MyAplication/MyAplication/.idea/MyAplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/RMI/.idea/RMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/RMI/RMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/jsf_with_richfaces/jsf_with_richfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/la11/la11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab1/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab6/lab6/Ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab6_Ejb/Ejb/Ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7/.idea/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7/Bean/Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7_jms/lab7_jms/.idea/lab7_jms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7_jms/lab7_jms/Bean/Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/lab7_jms/lab7_jms/Client/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/laba_rmi/laba_rmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/labrab1/labrab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/pism6/pism6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/smth/.idea/smth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../лабы для Даши ПИСМ/Писм весь/Писм весь/писм атрощенко/untitled/lab3Atrochenko/lab3Atrochenko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/L1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/out/production/L1/L1/ClientsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/out/production/L1/L1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/out/production/L1/L1/Registrar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/out/production/L1/L1/ThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/src/L1/ClientsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/src/L1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/src/L1/Registrar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1/src/L1/ThreadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/L1_0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/out/production/L1_0/L1_0/ClientsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/out/production/L1_0/L1_0/Kassa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/out/production/L1_0/L1_0/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/out/production/L1_0/L1_0/ThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/src/L1_0/ClientsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/src/L1_0/Kassa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/src/L1_0/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_0/src/L1_0/ThreadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/L1_10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/out/production/L1_10/Cashbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/out/production/L1_10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/out/production/L1_10/ThreadTickets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/out/production/L1_10/TicketsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/src/Cashbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/src/ThreadTickets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_10/src/TicketsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/L1_11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/out/production/L1_11/L1_11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/out/production/L1_11/L1_11/ThreadVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/out/production/L1_11/L1_11/VisitorsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/out/production/L1_11/L1_11/Workers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/src/L1_11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/src/L1_11/ThreadVisitors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/src/L1_11/VisitorsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11/src/L1_11/Workers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/L1_11_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/out/production/L1_11_/L1_11_/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/out/production/L1_11_/L1_11_/ThreadVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/out/production/L1_11_/L1_11_/VisitorsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/out/production/L1_11_/L1_11_/Workers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/src/L1_11_/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/src/L1_11_/ThreadVisitors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/src/L1_11_/VisitorsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_11_/src/L1_11_/Workers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/L1_6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/out/production/L1_6/ContQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/out/production/L1_6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/out/production/L1_6/Ship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/out/production/L1_6/ThreadContainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/src/ContQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/src/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_6/src/ThreadContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/L1_S.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/out/production/L1_S/LS/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/out/production/L1_S/LS/Taxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/out/production/L1_S/LS/firstTaxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/src/LS/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/src/LS/Taxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L1_S/src/LS/firstTaxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/L2_10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/out/production/L2_10/ClientTCP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/out/production/L2_10/ClientTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10/src/ClientTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/L2_10_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/out/production/L2_10_2/ServerTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_10_2/src/ServerTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/L2_4c.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/src/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4c/src/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/L2_4s.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/out/production/L2_4s/ServerTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_4s/src/ServerTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/L2_client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/out/production/L2_client/ClientTCP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/out/production/L2_client/ClientTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_client/src/ClientTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/L2_ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/out/production/L2_ex1/ServerTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex1/src/ServerTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/L2_ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/out/production/L2_ex2/ClientTCP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/out/production/L2_ex2/ClientTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_ex2/src/ClientTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/L2_server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/out/production/L2_server/ServerTCP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L2_server/src/ServerTCP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/L333333.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L333333/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/libraries/javafx_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/L33_33.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33_33/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/L33s.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/out/production/L33s/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L33s/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/L3_ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/out/production/L3_ex1/Servermain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/out/production/L3_ex1/Servermain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/out/production/L3_ex1/Servermain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex1/src/Servermain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/L3_ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_ex2/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/libraries/javafx_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/L3_v100.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L3_v100/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/L4_c.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/out/production/L4_c/Client$ActionListenerClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/out/production/L4_c/Client$ActionListenerClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/out/production/L4_c/Client$WindowClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/out/production/L4_c/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_c/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/L4_ex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/L4_ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/out/production/L4_ex1/DBClass$ActionListenerClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/out/production/L4_ex1/DBClass$SelectionListenerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/out/production/L4_ex1/DBClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_ex1/src/DBClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/L4_s.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/out/production/L4_s/Server$WindowClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/out/production/L4_s/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../L4_s/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/ThreadsForDasha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/out/production/ThreadsForDasha/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/out/production/ThreadsForDasha/logic/ThreadVisitors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/out/production/ThreadsForDasha/model/VisitorsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/out/production/ThreadsForDasha/model/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/src/logic/ThreadVisitors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/src/model/VisitorsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadsForDasha/src/model/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/Containers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/Lab_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/ThreadWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/dasha1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/Containers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/Lab_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/ThreadWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dasha1/out/production/dasha1/dasha1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_1/src/main/java/company/Servlets/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_1/src/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/l6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/out/production/l6/pack1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/out/production/l6/pack1/MyPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/src/pack1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../l6/src/pack1/MyPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/lab6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/p1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/p2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/build/proj1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/build/proj2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/prog1/MyPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/prog1/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/prog2/PrintHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/prog2/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/lab6tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/src/FUCK/Build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/src/FUCK/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6tmp/lab6tmp/src/FUCK/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/laba1_progsp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/out/production/laba1_progsp/ClientsQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/out/production/laba1_progsp/Kassa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/out/production/laba1_progsp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/out/production/laba1_progsp/ThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/src/ClientsQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/src/Kassa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba1_progsp/src/ThreadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/lock_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/out/production/lock_1/CommonResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/out/production/lock_1/CountThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/out/production/lock_1/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lock_1/src/Programe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr6/MyPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lr6/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mavLab6/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/libraries/javafx_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/libraries/javafx_web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Архив.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CarRental" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NISLsiYvs0JIjthJ49KoKF6Ay1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dashan/Documents/proga/course_work/CarRental/source/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CarRental/source/src" />
+      <recent name="$PROJECT_DIR$/CarRental/source/src/main/java" />
+      <recent name="$PROJECT_DIR$/CarRental/source/src/main/webapp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a55cfc-2560-42ae-aef8-ca10baf43443" name="Changes" comment="" />
+      <created>1679350050380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679350050380</updated>
+      <workItem from="1679350051925" duration="631000" />
+      <workItem from="1682450979226" duration="212000" />
+      <workItem from="1683050842366" duration="2416000" />
+      <workItem from="1683232167889" duration="655000" />
+      <workItem from="1683499048414" duration="6395000" />
+      <workItem from="1683519831834" duration="549000" />
+      <workItem from="1683554036048" duration="835000" />
+      <workItem from="1683584775084" duration="7000" />
+      <workItem from="1683584854041" duration="470000" />
+      <workItem from="1683604562632" duration="563000" />
+      <workItem from="1683657890409" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

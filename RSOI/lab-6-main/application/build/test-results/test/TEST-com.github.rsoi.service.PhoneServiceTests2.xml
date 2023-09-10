@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.rsoi.service.PhoneServiceTests2" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-10T13:47:57" hostname="Dashas-MacBook-Pro.local" time="0.033">
+  <properties/>
+  <testcase name="shouldDeletePhoneById()" classname="com.github.rsoi.service.PhoneServiceTests2" time="0.026"/>
+  <testcase name="shouldGetAllPhones()" classname="com.github.rsoi.service.PhoneServiceTests2" time="0.005"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.0.2)
+
+2023-05-10T16:47:57.928+03:00  INFO 1339 --- [    Test worker] c.g.rsoi.service.PhoneServiceTests2      : Starting PhoneServiceTests2 using Java 19.0.1 with PID 1339 (started by dashan in /Users/dashan/Documents/proga/RSOI/lab-6-main/application)
+2023-05-10T16:47:57.929+03:00  INFO 1339 --- [    Test worker] c.g.rsoi.service.PhoneServiceTests2      : No active profile set, falling back to 1 default profile: "default"
+2023-05-10T16:47:57.946+03:00  INFO 1339 --- [    Test worker] c.g.rsoi.service.PhoneServiceTests2      : Started PhoneServiceTests2 in 0.06 seconds (process running for 11.991)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
